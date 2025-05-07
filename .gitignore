@@ -1,0 +1,29 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# VS Code settings
+.vscode/
+
+# Eclipse/IntelliJ files (optional, if you ever use them)
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+
+# Mac system files
+.DS_Store
+
+# Output folders
+/bin/
+/build/
+/out/
+/lib/
