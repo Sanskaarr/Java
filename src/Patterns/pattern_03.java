@@ -1,4 +1,6 @@
-public class pattern_01{
+package Patterns;
+
+public class pattern_03 {
     public static void main(String[] args) {
         int n = 5; // Number of rows
         for (int i = 1; i <= n; i++) {
