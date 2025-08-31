@@ -10,10 +10,12 @@ public class array_01 {
         for(int i=0;i<arr.length;i++){
             System.out.println("Enter the value for index " + i + ": ");
             arr[i] = sc.nextInt();
-            System.out.println();
         }
+        System.out.println();
+
         for(int e:arr){
-            System.out.println(e);
+            System.out.print(e+" ");
         }
+        sc.close();
     }
 }
